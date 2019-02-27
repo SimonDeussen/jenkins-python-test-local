@@ -1,7 +1,6 @@
-# jenkins python ci/cd
+# Template jenkins python ci/cd
 
-Test repository for Jenkins based CI/CD of python project.
-
+easy test and setup of jenkis 
 
 # Quickstart
 
